@@ -1,0 +1,1 @@
+This is the landing page assignment for the Odin project.
